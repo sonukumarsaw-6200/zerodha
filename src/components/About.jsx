@@ -140,7 +140,7 @@ export default function About() {
               Today, our pricing models and in-house technology have made us the
               biggest stock broker in India.
               <br /><br />
-              Over 1.6+ crore clients place billions of orders every year.
+              Over 1.7+ crore clients place billions of orders every year.
             </p>
 
             <p>
