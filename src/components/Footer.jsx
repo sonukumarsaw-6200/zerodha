@@ -26,7 +26,7 @@ export default function Footer() {
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
+              <a href="https://www.instagram.com/just.sujalvibe?igsh=ZGZsazg2NjNzamtk" className="text-gray-400 hover:text-white transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
               <a href="https://www.linkedin.com/in/sonu-kumar-194506298/" className="text-gray-400 hover:text-white transition-colors">
